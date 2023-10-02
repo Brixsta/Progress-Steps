@@ -5,3 +5,4 @@
 - Coding exercise
 - Practice making progress steps
 - Used JavaScript for button logic
+- CSS transitions used for all animation
